@@ -1,0 +1,19 @@
+img.Logo { 
+    height: 70px;
+    border-radius: 50px;
+    margin-bottom: 300px;
+    margin-left: -700px;
+}
+
+img.firstpost {
+    height: 300px;
+    margin-left: 300px;
+    margin-top: 100px;
+    width: 280px;
+}
+
+img.like {
+    margin-bottom: 150px;
+    height: 20px;
+    margin-left: 700px;
+}
